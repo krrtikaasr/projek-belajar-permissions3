@@ -1,0 +1,38 @@
+name: bismillah_bisa
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  camera: ^0.11.0+2
+  cloud_firestore: ^5.2.1
+  cupertino_icons: ^1.0.6
+  dotted_border: ^2.1.0
+  firebase_core: ^3.3.0
+  flutter:
+    sdk: flutter
+  geocoding: ^3.0.0
+  geolocator: ^12.0.0
+  google_mlkit_face_detection: ^0.11.0
+  intl: ^0.19.0
+  lottie: ^3.1.2
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/absen.jpg
+    - assets/images/absen-removebg-preview.png
+    - assets/images/attendance-removebg-preview.png
+    - assets/images/attendance.png
+    - assets/images/history-removebg-preview.png
+    - assets/images/history.png
+    - assets/raw/face_id_ring.json

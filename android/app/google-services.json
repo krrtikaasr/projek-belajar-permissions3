@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824763107143",
+    "project_id": "aplikasi-absensi-2f126",
+    "storage_bucket": "aplikasi-absensi-2f126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824763107143:android:19fcc243131e224e602e62",
+        "android_client_info": {
+          "package_name": "com.cobaa.latihan.lagi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHeSJbyOK_tcRN8-civNqZfy2x3W3_Lc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
